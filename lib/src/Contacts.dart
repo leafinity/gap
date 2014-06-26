@@ -1,4 +1,4 @@
-part of rikulo_contacts;
+part of rikulo_contact;
 
 /** Singleton Contacts. */
 Contacts contacts = new Contacts._internal();
